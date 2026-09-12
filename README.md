@@ -1,4 +1,4 @@
-<img width="1280" alt="World's Most Useless Translator" src="screenshots/02_savage_translation_results.png" />
+<img width="1280" alt="World's Most Useless Translator Cover" src="screenshots/cover.jpg" />
 
 # World's Most Useless Translator 🎯
 
