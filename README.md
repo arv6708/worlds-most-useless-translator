@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+<img width="1280" alt="World's Most Useless Translator" src="screenshots/02_savage_translation_results.png" />
 
 # World's Most Useless Translator 🎯
 
@@ -61,14 +61,21 @@ npm run build
 For Software:
 
 # Screenshots
-<img width="1280" alt="Solo Translator" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
-*Solo Translator Interface: Unfiltered translation with Malayalam comedy dialogues & savage stand-up burns*
 
-<img width="1280" alt="Two-Person Chat" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
-*Two-Person Chat: Real-time dual monologue exposing what both parties are hiding*
+<img width="1280" alt="Solo Translator Interface" src="screenshots/02_savage_translation_results.png" />
+*Solo Translator Interface: Unfiltered 3-tier translation with savage Malayalam subtext & burns*
 
-<img width="1280" alt="Roast Battle Mode" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
-*Roast Battle Mode: Interactive comedy battle with escalating chaos meter*
+<img width="1280" alt="Context and Mode Selection" src="screenshots/01_context_and_modes.png" />
+*Context and Mode Selection: 12 comedic context modes (College, Viva, Corporate, Shaji Mode, etc.) with Brutal Mode toggle*
+
+<img width="1280" alt="Cult Comedy Character Reaction" src="screenshots/03_comedy_character_reaction.png" />
+*Kerala Cult Comedy Character Reaction: Legendary movie dialogues & punchlines featuring Dashamoolam Damu, Ramanan, Pavanayi, and Manavalan*
+
+<img width="1280" alt="Stand-Up Comedy Breakdown" src="screenshots/04_standup_breakdown_and_commentary.png" />
+*Stand-Up Comedy Breakdown: Observational Malayali routine, mic-drop punchlines, and live AI bot roasts*
+
+<img width="1280" alt="Lie Detector and Subtext Meters" src="screenshots/05_lie_detector_and_emotion_meter.png" />
+*Lie Detector & Subtext Readings: Real-time neural honesty index, arrival delay estimates, and emotional subtext meters*
 
 ---
 Made with ☕ and pure chaos for TinkerHub Useless Projects 3.0.
